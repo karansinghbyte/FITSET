@@ -154,7 +154,7 @@ frontend/
 ## 📞 Support
 
 - **Email**: support@ProFit.com
-- **Phone**: 8708656580
+- **Phone**: 8423483661
 - **Available**: India
 
 ---
