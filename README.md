@@ -153,7 +153,7 @@ frontend/
 
 ## 📞 Support
 
-- **Email**: support@ProFit.com
+- **Email**: ks612353@gmail.com
 - **Phone**: 8423483661
 - **Available**: India
 
